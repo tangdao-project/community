@@ -1,108 +1,62 @@
-# Community
+# 社区
+![banner](/images/tangdao.jpg)
 
-## About
+## 关于
 
-Welcome to the TangDAO community repository! You can treat this repo as your go-to for all meta, non-code discussions in the [*Discussions Forum*](https://github.com/tangdao-project/community/discussions), documents used by multiple repositories (such as the Code of Conduct), and how to interact with the TangDAO project and other community members.
+欢迎来到TangDAO `community` 项目仓库！您可以将这里作为非代码讨论[*Discussions Forum*](https://github.com/tangdao-project/community/discussions)，以及与TangDAO其他社区成员互动的地方。
 
-If you are interested in discussing code or protocol design, feel free to come talk to us on our [forums](#forums), [chat channels](#chat), or in issues on our other [TangDAO project repos](https://github.com/tangdao-project).
+如果您对代码或协议设计感兴趣，请随时在我们的`论坛`、`聊天频道`或我们其他 [TangDAO 项目](https://github.com/tangdao-project) 的`issue`中与我们交流互动。
 
-## Join the Community
+TangDAO旨在通过唐文化纽带，串联web3全球华人力量，通过数字艺术教育、项目孵化、海内外活动等不同形式的内容与活动输出打造中国文化DAO品牌。
 
-**> Note: Before posting to different communications channels, make sure to read the [Code of Conduct](https://github.com/tangdao-project/community/blob/main/CODE_OF_CONDUCT.md).**
+## 加入社区
 
-The vast majority of the TangDAO Project conversations, including implementation, community support, ecosystem news, etc. take place on:
+**> 注意: 在加入任何渠道之前，请先阅读我们的[行为准则](https://github.com/tangdao-project/community/blob/main/CODE_OF_CONDUCT.md).**
 
-- [Forums](#forums) (mainly on Github Discussions)
-- GitHub Issues (see [Implementation related repo](#impelmentation-related-repo) section below)
-- Chat (mainly on DoDo) (see [Chat](#chat) section below)
+TangDAO 的绝大多数事件交流，包括实现、社区支持、最新动态等，都发生在：
 
-The TangDAO Project is an open sourced project with a very supportive and welcoming community, where many community members are responsive in various forums and Dodo channels. 
-
-Implementation dev teams tend to check their corresponding GitHub repo issues and discussions regularly and try to respond within 5 business days.
-
-We also push updates to the community via:
-
-- Forum - [`Announcements`](https://github.com/tangdao-project/community/discussions/categories/announcements) 
-- Twitter: [@TangDAO](https://twitter.com/TangDAO_)
-- Weibo: [@TangDAOweb3](https://www.weibo.com/u/7708575347?tabtype=feed)
+- 论坛 - [discussions](https://github.com/tangdao-project/community/discussions) 
+- 推特: [@TangDAO](https://twitter.com/TangDAO_)
+- 微博: [@TangDAOweb3](https://www.weibo.com/u/7708575347?tabtype=feed)
 - DoDo: [TangDAO](https://imdodo.com/s/185864)
+- 公众号: TangDAO
+- 抖音号: 2236090484
+- 即刻: TangDAO
+- 视频号: TangDAOWEB3
+- 公众号: TangDAO
+- 小红书: TangDAOweb3
+- Mirror: [TangDAO](https://mirror.xyz/0x8cBBeD941Bd540e46c73572EEA7ecb60610d3b4a)
+- 唐人(客服微信): cyberium
+
+TangDAO 是一个开源的自治组织，非常支持和欢迎社区成员在`论坛`、`issue`、`DoDo`的频道中进行交流讨论，我们会查看这些问题，并尝试在5个工作日进行回复。
+
+我们喜欢倾听来自社区的声音，无论是：
+
+- 问题
+- 新的提案
+- 分享您在做的项目
+- 寻求合作
+- 或者其他的什么
+
+### TangDAO 活动
+
+TangDAO 活动是社区成员之间促进交流，了解TangDAO理念的非常好的方式，我们会不定期举行线上或者线下的活动。
+
+## 贡献
+
+在遵守社区行为准则的前提下，您可以以任何形式做出贡献，请在DoDo群中联系@Wingo。
+
+## 维护人员
+
+维护人员是这个项目仓库的维护者，如果有任何疑问，您都可以通过创建一个`issue`并@以下一位维护者。
+
+当前的维护者是:
+@Wingo
 
 
-### Forums
+## 许可
 
-#### TangDAO Community Forum
-
-When in doubt or curiosity, please post in [TangDAO community forum](https://github.com/tangdao-project/community/discussions)!
-
-We love to hear what the community has to say, whether it is to:
-
-- Ask a question
-- Gather community feedback on a new feature proposal before opening an FIP 
-- Share a new project you're working on
-- Find collaborators for your own community project
-- And whatever else! Honestly!
-
-The discussion forum uses the same Code of Conduct as our other community channels. Please make sure to read this before posting.
-
-### Chat
-
-Vast majority of community live chat is happening in [TangDAO DoDo Group](https://imdodo.com/s/185864). Tag @Wingo if you have any questions!
-
-
-### GitHub issues
-
-If you find something puzzling or encounter a straight-up bug in any of our repositories, please file a well-scoped issue. 
-
-If a repo has a Contributing Guide, please read it before filing an issue!
-
-### Security issues and disclosures
-
-Almost anything you find that is a bug in the codebase should be filed as an issue. The exception is if you find a security vulnerability. If you discover a security issue, please bring it to our attention right away!
-
-Please refer to [SECURITY.md](./SECURITY.md) document found in this repo on how to best report findings and participate on the bug bounty program.
-
-## Ecosystem Projects
-
-If your project uses TangDAO, you're in the TangDAO ecosystem! We'd love to see all awesome projects that are built on top of the TangDAO ecosystem to be known and get used by the TangDAO community! 
-
-### Showcase Your Project!
-
-Following the steps below to submit your projects to be featured in this [repo](https://github.com/tangdao-project/community/tree/main/projects)
-
-### Updates and Newsletter
-
-We'd encourage all projects featured in this repo to share all of your thrilling updates with the community! Start a new comment with header `Project Name Update/Newsletter - Date` (i.e `## Slate Update - Feb, 2021`) in your project discussion to share the exciting news with the community!
-
-## Events
-
-### Community calls
-
-
-### TangDAO Meetups
-
-TangDAO meetups are a great way to meet and connect with other developers and holder in your community that are using and learning about TandDAO.
-
-Click [Attend a TangDAO virtual meetup](https://meeting.tencent.com/dm/Q90PTD8uu3dH) for joining the next event!
-
-## Contributing
-
-### Contributing Guidelines
-
-We use a common [Code of Conduct](https://github.com/tangdao-project/community/blob/main/CODE_OF_CONDUCT.md) across all of our repos.
-
-Each repo should have its own contributing guide, called `CONTRIBUTING.md`. Here is an example [Contributing Guide for `people-tang`](https://github.com/tangdao-project/people-tang/blob/main/CONTRIBUTING.md).
-
-## Maintainers
-
-Maintainers are responsible for maintaining the content of this repo, create an issue and tag one of the maintainers if you have any questions.
-
-Current maintainers are:
-@dafsic ([dafsic@gmail.com](dafsic@gamil.com))
-
-
-## License
-
-The Filecoin Project is dual-licensed under Apache 2.0 and MIT terms:
+TangDAO 根据Apache 2.0 和 MIT 条款进行双重许可:
 
 - Apache License, Version 2.0, ([LICENSE-APACHE](https://github.com/filecoin-project/community/blob/master/LICENSE-APACHE) or [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0))
 - MIT license ([LICENSE-MIT](https://github.com/filecoin-project/community/blob/master/LICENSE-MIT) or [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))

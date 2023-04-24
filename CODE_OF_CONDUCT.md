@@ -1,154 +1,85 @@
-# TangDAO Community Code of Conduct
+# TangDAO 社区行为准则
 
-We believe that our mission is best served in an environment that is friendly,
-safe, and accepting; free from intimidation or harassment.
+我们相信，在友好、安全和包容、免于恐吓或骚扰的环境中，我们能更好的完成使命。
 
-Towards this end, certain behaviors and practices will not be tolerated.
+为此，我们不会容忍某些行为和做法。
 
 ## tl;dr
 
-- Be respectful.
-- We're here to help: [@TangDAO](https://twitter.com/TangDAO_)
-- Abusive behavior is never tolerated.
-- Violations of this code may result in swift and permanent expulsion from the TangDAO community.
-- "Too long, didn't read" is not a valid excuse for not knowing what is in this document.
+- 保持尊重。
+- 在这里寻求我们的帮助：[@TangDAO](https://twitter.com/TangDAO_)
+- 绝不容忍虐待行为。
+- 违反此准则可能会导致从TangDAO社区迅速永久开除。
+- “tl;dr”不是不知道本文档内容的有效借口。
 
-## Table of Contents
+## 目录
 
-- [Scope](#scope)
-- [Friendly Harassment-Free Space](#friendly-harassment-free-space)
-- [Avoid Marketing or Soliciting](#avoid-marketing-or-soliciting)
-- [Reporting Violations of this Code of Conduct](#reporting-violations-of-this-code-of-conduct)
-- [Copyright Violations](#copyright-violations)
-- [Consequences](#consequences)
-- [Addressing Grievances](#addressing-grievances)
-- [Contact Info](#contact-info)
-- [Changes](#changes)
-- [Credit and License](#credit-and-license)
+- [适用范围](#适用范围)
+- [友好的无骚扰空间](#友好的无骚扰空间)
+- [禁止广告](#禁止广告)
+- [报告违反本行为准则的行为](#报告违反本行为准则的行为)
+- [版权保护](#版权保护)
+- [对不可接受行为的处理](#对不可接受行为的处理)
+- [变更](#变更)
+- [声明](#声明)
 
-## Scope
+## 适用范围
 
-We expect all members of the TangDAO community to abide by this Code of Conduct
-at all times in all TangDAO community venues, online and in person, and in one-on-one
-communications pertaining to TangDAO affairs.
+我们希望TangGAO社区的所有成员在所有TangDAO社区场所、在线和面对面以及与TangDAO事务有关的一对一交流中，始终遵守本行为准则。
 
-This policy covers the usage of TangDAO public infrastructure, as well as other TangDAO websites, TangDAO related events,
-and any other services offered by or on behalf of the TangDAO community. It also
-applies to behavior in the context of the TangDAO Open Source project
-communities, including but not limited to public GitHub repositories, IRC
-channels, social media, mailing lists, and public events.
+本政策涵盖TangDAO公共基础设施的使用，以及其他TangDAO网站、TangDAO相关活动以及TangDAO社区提供或代表TangDAO社区提供的任何其他服务。 它也适用于在 TangDAO 开源项目社区中的行为，包括但不限于公共GitHub存储库、IRC频道、社交媒体、邮件列表和公共活动。
 
-This Code of Conduct is in addition to, and does not in any way nullify or
-invalidate, any other terms or conditions related to use of TangDAO services.
+本行为准则是对与使用TangDAO服务相关的任何其他条款或条件的补充，并且不会以任何方式使之无效或失效。
 
-The definitions of various subjective terms such as "discriminatory",
-"hateful", or "confusing" will be decided at the sole discretion of the TangDAO
-abuse team.
+“歧视”、“仇恨”或“混淆”等各种主观术语的定义将由TangDAO滥用团队自行决定。
 
-## Friendly Harassment-Free Space
+## 友好的无骚扰空间
 
-We are committed to providing a friendly, safe and welcoming environment for
-all, regardless of gender identity, sexual orientation, disability, ethnicity,
-religion, age, physical appearance, body size, race, or similar personal
-characteristics.
+我们致力于为所有人提供友好、安全和温馨的环境，无论其性别认同、性取向、残疾、种族、宗教、年龄、外貌、体型、种族或类似的个人特征如何。
 
-We ask that you please respect that people have differences of opinion
-regarding technical choices, and that every design or implementation choice
-carries a trade-off and numerous costs. There is seldom a single right answer.
-A difference of technology preferences is not a license to be rude.
+我们要求您尊重人们对技术选择的不同意见，并且每个设计或实施选择都需要权衡和大量成本，很少有一个正确的答案。
+但技术偏好的差异并不是无礼的许可。
 
-Any spamming, trolling, flaming, baiting, or other attention-stealing
-behavior is not welcome, and will not be tolerated.
+任何垃圾邮件、拖钓、燃烧、诱饵或其他窃取注意力的行为都是不受欢迎的，也不会被容忍。
 
-Harassing other users is never tolerated, whether via public or private media.
+绝不容忍骚扰其他用户，无论是通过公共媒体还是私人媒体。
 
-Avoid using offensive or harassing nicknames, or other identifiers that might
-detract from a friendly, safe, and welcoming environment for all.
+避免使用冒犯性或骚扰性的昵称，或其他可能会损害所有人友好、安全和热情的环境的标识符。
 
-Harassment includes, but is not limited to: harmful or prejudicial verbal or
-written comments related to gender identity, sexual orientation, disability,
-ethnicity, religion, age, physical appearance, body size, race, or similar
-personal characteristics; inappropriate use of nudity, sexual images, and/or
-sexually explicit language in public spaces; threats of physical or non-
-physical harm; deliberate intimidation, stalking or following; harassing
-photography or recording; sustained disruption of talks or other events;
-inappropriate physical contact; and unwelcome sexual attention.
+骚扰包括但不限于：与性别认同、性取向、残疾、种族、宗教、年龄、外貌、体型、种族或类似个人特征相关的有害或有偏见的口头或书面评论；在公共场所不当使用裸体、色情图片和/或色情语言；身体或非身体伤害的威胁；蓄意恐吓、跟踪或跟随； 骚扰拍照或录音；会谈或其他活动持续中断；不适当的身体接触；和不受欢迎的性关注。
 
-Media shared through public infrastructure run by the TangDAO team must not
-contain illegal or infringing content. You should only publish content via
-TangDAO public infrastructure if you have the right to do so. This includes
-complying with all software license agreements or other intellectual property
-restrictions. You will be solely responsible for any violation of laws or
-others’ intellectual property rights.
+通过TangGAO团队运营的公共基础设施共享的媒体不得包含非法或侵权内容。 如果您有权这样做，您应该只通过TangDAO公共基础设施发布内容。这包括遵守所有软件许可协议或其他知识产权限制。 您将对任何违反法律或他人知识产权的行为承担全部责任。
 
-## Avoid Marketing or Soliciting
+## 禁止广告
 
-You are welcome to post endorsements of tools, products or services that you
-personally find useful, but please refrain from blatant advertising, marketing
-or any kind of spam. Selling commercial services or fundraising is not allowed.
+欢迎您发布您个人认为有用的工具、产品或服务的背书，但请避免公然的广告、营销或任何类型的垃圾邮件，不允许出售商业服务或筹款。
 
-## Reporting Violations of this Code of Conduct
+## 报告违反本行为准则的行为
 
-If you believe someone is harassing you or has otherwise violated this Code of
-Conduct, please contact us at [@TangDAO](https://twitter.com/TangDAO_) to send us an abuse report. If
-this is the initial report of a problem, please include as much detail as
-possible. It is easiest for us to address issues when we have more context.
+如果您认为有人骚扰您或以其他方式违反了本行为准则，请通过[@TangDAO](https://twitter.com/TangDAO_)联系我们，向我们发送滥用报告。 如果这是初始报告，请提供尽可能详细的信息，我们将更容易解决问题。
 
-## Copyright Violations
+## 版权保护
 
-We respect the intellectual property of others and ask that you do too. If you
-believe any content or other materials available through public TangDAO
-infrastructure violates a copyright held by you and you would like to submit a
-notice pursuant to the Digital Millennium Copyright Act or other similar
-international law, you can submit a notice to our agent for service of notice
-to: [@TangDAO](https://twitter.com/TangDAO_)
+我们尊重他人的知识产权，并要求您也这样做。如果您认为TangDAO基础设施提供的任何内容或其他材料侵犯了您持有的版权，并且您想根据《中华人民共和国著作权法》或其他类似国际法提交通知，您可以向我们的代理人提交通知:[@TangDAO](https://twitter.com/TangDAO_)
 
-Please make sure your notice meets the Digital Millennium Copyright Act
-requirements.
+请确保您的通知符版权法的要求。
 
-## Consequences
+## 对不可接受行为的处理
 
-All content published to public TangDAO infrastructure is hosted at the sole
-discretion of the TangDAO team.
+发布到TangDAO的所有内容均由TangDAO团队自行决定托管。
 
-Unacceptable behavior from any community member will not be tolerated.
+不会容忍任何社区成员的不可接受的行为。
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+如果社区成员做出不可接受的行为，TangDAO团队可以采取他们认为适当的任何措施，包括暂时禁止或永久驱逐出社区，恕不另行通知（如果是付费活动或服务，则不予退款）。
 
-If a community member engages in unacceptable behavior, the TangDAO team
-may take any action they deem appropriate, up to and including a temporary ban
-or permanent expulsion from the community without warning (and without refund
-in the case of a paid event or service).
+如果您认为您被错误或不公平地指控违反了本行为准则，您应该联系[@TangDAO](https://twitter.com/TangDAO_)。 我们将尽最大努力确保您的申诉得到妥善处理。
 
-## Addressing Grievances
+## 变更
 
-Please contact [@TangDAO](https://twitter.com/TangDAO_) if you need to report a problem or address a
-grievance related to an abuse report.
+这是一份动态文档，可能会不时更新。请参阅本文档的git历史以查看更改。
 
-If you feel you have been falsely or unfairly accused of violating this Code
-of Conduct, you should contact [@TangDAO](https://twitter.com/TangDAO_). We will do our best to ensure
-that your grievance is handled appropriately.
+## 声明
+本社区行为准则基于[npm Code of Conduct](https://www.npmjs.com/policies/conduct)。
 
-In general, we will choose the course of action that we judge as being most in
-the interest of fostering a safe and friendly community.
-
-## Contact Info
-
-Please contact [@TangDAO](https://twitter.com/TangDAO_) if you need to report a problem or address a
-grievance related to an abuse report.
-
-You are also encouraged to contact us if you are curious about something that
-might be "on the line" between appropriate and inappropriate content. We are
-happy to provide guidance to help you be a successful part of our community.
-
-## Changes
-
-This is a living document and may be updated from time to time. Please refer
-to the git history for this document to view the changes.
-
-## Credit and License
-This Code of Conduct is based on the
-[npm Code of Conduct](https://www.npmjs.com/policies/conduct).
-
-This document may be reused under a [Creative Commons Attribution-ShareAlike
-License](http://creativecommons.org/licenses/by-sa/4.0/).
+本文件可根据[Creative Commons Attribution-ShareAlike
+License](http://creativecommons.org/licenses/by-sa/4.0/)进行重复使用。
