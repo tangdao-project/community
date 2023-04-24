@@ -15,7 +15,8 @@ TangDAO旨在通过唐文化纽带，串联web3全球华人力量，通过数字
 
 TangDAO 的绝大多数事件交流，包括实现、社区支持、最新动态等，都发生在：
 
-- 论坛 - [discussions](https://github.com/tangdao-project/community/discussions) 
+- Notion: [Notion](https://www.notion.so/tangdao/TangDAO-Space-f8b5754649f349b6a127ea5646d12373)
+- 论坛: [discussions](https://github.com/tangdao-project/community/discussions) 
 - 推特: [@TangDAO](https://twitter.com/TangDAO_)
 - 微博: [@TangDAOweb3](https://www.weibo.com/u/7708575347?tabtype=feed)
 - DoDo: [TangDAO](https://imdodo.com/s/185864)
